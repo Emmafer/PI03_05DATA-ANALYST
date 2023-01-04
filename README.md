@@ -9,7 +9,7 @@
 
 ## Introducción:
 
-¡Hola! 👋 Mi nombre es Emmanuel Fernandez, y este es mi tecer proyecto para la etapa de Labs de la carrera de Data Science de SoyHenry. Este proyecto busca situarnos en el rol de un Data Analyst, contratado por una importante empresa prestadora de servicios de telecomunicaciones para realizar un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Antes de todo esto, debemos realizar un EDA para corregir imperfecciones como diferencias en el tipo de los datos, valores nulos, duplicados, etc.
+¡Hola! 👋 Mi nombre es Emmanuel Fernandez, y este es mi tercer proyecto para la etapa de Labs de la carrera de Data Science de SoyHenry. Este proyecto busca situarnos en el rol de un Data Analyst, contratado por una importante empresa prestadora de servicios de telecomunicaciones para realizar un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Antes de todo esto, debemos realizar un EDA para corregir imperfecciones como diferencias en el tipo de los datos, valores nulos, duplicados, etc.
 
 ## Objetivos: 
 
@@ -40,5 +40,9 @@ Decidí realizar mi EDA con las herramientas provistas por PowerBI como PowerQue
 + DAX. 📅
 
 + PowerQuery. 💪🏻
+
+## Links y fuentes de datos:
+
++ https://datosabiertos.enacom.gob.ar/home
 
 ## ¡Gracias por haber leído hasta acá! Espero que les haya gustado. 
