@@ -21,6 +21,10 @@
 
 + Hacer una presentación en vivo de manera virtual con un PO (Product Owner).
 
+## Presentación y Definición del proyecto:
+
+Decidí encarar el proyecto utilizando mis datos para realizar una especie de comparación entre los servicios de Internet y Telefonía Fija, intentando demostrar por qué habría que empezar a descontinuar este último y habría que invertir más en las instalaciones de servicios de internet. Para defender mi punto utilizo los datasets provistos por Enacom sobre el número de accesos que hay en ambos servicios y comparo los ingresos que generan además de la variación en el número de contrataciones, que es muy positiva para los servicios de Internet y bastante negativa para los servicios de Telefonía Fija.
+
 ## Aclaraciones:
 
 Decidí realizar mi EDA con las herramientas provistas por PowerBI como PowerQuery y DAX en lugar de utilizar python, parte de esta decisión fue para amigarme más con estos lenguajes, pero también influyó mucho la comodidad y facilidad de realizar los cambios de las tablas en el mismo lugar donde tengo las visualizaciones. Sin embargo, esto me lleva a explicar de manera más narrativa los cambios realizados en mis datos.
@@ -29,7 +33,7 @@ Decidí realizar mi EDA con las herramientas provistas por PowerBI como PowerQue
 
 + En la carpeta `datasets` se encuentran los datasets analizados con los cuales se armaron las tablas en PowerBI.
 
-+ El archivo EDA.ipynb es un Notebook en el que explico brevemente los criterios y cambios utilizados para la normalización de los datos.
++ El archivo EDA.md es un Markdown en el que explico brevemente los criterios y cambios utilizados para la normalización de los datos.
 
 + El archivo dashboard_pi03 es el Dashboard de PowerBI que contiene la preesntación y todas las visualizaciones junto con los KPI's elaborados. 
 
